@@ -8,9 +8,9 @@ pipeline {
                 sh 'git clone https://github.com/psnajdarche/Riki.git'
             }
         }
-         stage('push repo') {
+         stage('Tetsing') {
             steps {
-                echo 'pull the last version' 
+                echo 'Tetsting the last version' 
                
             }
         }
