@@ -16,7 +16,7 @@ pipeline {
         }
          stage('Stage 3') {
             steps {
-                echo 'Hello world!' 
+                echo 'Promena na gittu!' 
             }
         }
     }
